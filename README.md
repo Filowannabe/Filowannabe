@@ -9,10 +9,9 @@
 * ❄️ `My name is`: **Felipe**,
 * 🟢 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **26 years old**,
-* 💻 `Favorite languague`: **Java & TypeScript**  
-* ⚔️ **Old times gamer**
-* 🧮 **Reader** 
-* 🏔️ **Cold lover**
+* 💻 `Favorite lang`: **Java & TypeScript**  
+* 🐵 `hobbies`: ⚔️ **Old times gamer** 🧮 **Reader** 🏔️ **Cold lover**
+
 
 
 <br/><h2 align="center">🗺️ Statistics</h2>
