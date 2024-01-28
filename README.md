@@ -9,7 +9,7 @@
 * ❄️ `My name is`: **Felipe**,
 * 🟢 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **26 years old**,
-* 💻 `Favorite lang`: **Java & TypeScript**  
+* 💻 `Favorite languague`: **Java & TypeScript**  
 * ⚔️ **Old times gamer**
 * 🧮 **Reader** 
 * 🏔️ **Cold lover**
