@@ -12,7 +12,7 @@
 * 💻 `Favorite lang`: **Java & TypeScript**  
 * 🐵 `hobbies`: ⚔️ **Old times gamer** 🧮 **Reader** 🏔️ **Cold lover**
 
-
+<br/>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=filowannabe&show_icons=true&count_private=true&theme=monokai&hide_border=true&hide=issues,contribs&bg_color=00000000">
