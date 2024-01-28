@@ -80,7 +80,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h4 align="center">🩻 Cloud & providers</h4>
+<h4 align="center">🌩️ Cloud & providers</h4>
 
 <p align="center">
   <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white"></a>
